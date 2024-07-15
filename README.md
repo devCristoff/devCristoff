@@ -1,6 +1,24 @@
 ## 👋 Hi there, I'm Cristofer De La Mota A.
 
-I am a software developer with pasion for innovation and creativity 🖌️
+I am a junior software developer with a passion for innovation and creativity 🎨
+
+## About me
+- 📝 Currently learning Node.js, TypeScript, React, NestJS, Machine Learning.
+- 🌐 Working on college projects that challenge me to continuously improve.
+- 👯 Skilled at working both in teams and independently.
+- 💭 Enjoy solving problems and automating processes.
+
+## Skills
+- Design Patterns: Repository, CQRS, Factory, Observer, Facade, Decorator, Mediator, Singleton, Strategy
+- Onion Architecture
+- MVC (Model-View-Controller): Asp.Net Core MVC or ExpressJS
+- ORM (Object-Relational Mapping): Sequelize, Prisma, EntityFramework Core
+- Scalable Software Development
+- SOLID Principles
+- API Development with Swagger Documentation: Asp.Net Core API, NestJS, Fast API
+- Machine Learning Model Training with Python
+- Data Science with Pandas
+- Data Visualization with Matplotlib
 
 <!--
 Here are some ideas to get you started:
