@@ -33,11 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--profile stats-->
-<div align="center">
 
-[![](https://github-readme-stats.vercel.app/api?username=devCristoff)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <!--technologies-->
 ## I use these technologies 🧑🏻‍💻
